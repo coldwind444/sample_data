@@ -1,5 +1,4 @@
-{
-  "exercises": [
+[
     "Lan có 5 quả táo, mẹ cho thêm 3 quả nữa. Hỏi Lan có tất cả bao nhiêu quả táo?",
     "Một con mèo có 4 chân. Hỏi 3 con mèo có tất cả bao nhiêu chân?",
     "Trong giỏ có 10 quả cam, lấy ra 4 quả. Hỏi trong giỏ còn lại bao nhiêu quả cam?",
@@ -21,4 +20,3 @@
     "Một người đi bộ 4 km mỗi ngày. Hỏi sau 5 ngày, người đó đi được bao nhiêu km?",
     "Một cửa hàng có 30 quả bóng, bán ra 12 quả, rồi nhập thêm 8 quả. Hỏi cửa hàng hiện có bao nhiêu quả bóng?"
   ]
-}
