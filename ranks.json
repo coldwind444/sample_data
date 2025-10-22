@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "title": "Tập Sự Số Học",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_01.svg",
+    "color": "#E1A04B"
+  },
+  {
+    "rank": 2,
+    "title": "Người Giải Đố",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_02.svg",
+    "color": "#50C22B"
+  },
+  {
+    "rank": 3,
+    "title": "Kẻ Suy Luận",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_03.svg",
+    "color": "#54D09C"
+  },
+  {
+    "rank": 4,
+    "title": "Thần Đồng Toán",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_04.svg",
+    "color": "#40A7E8"
+  },
+  {
+    "rank": 5,
+    "title": "Nhà Logic Học",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_05.svg",
+    "color": "#0274F3"
+  },
+  {
+    "rank": 6,
+    "title": "Đại Sư Hình Học",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_06.svg",
+    "color": "#3D2CD4"
+  },
+  {
+    "rank": 7,
+    "title": "Kiện Tướng Đại Số",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_07.svg",
+    "color": "#881AE6"
+  },
+  {
+    "rank": 8,
+    "title": "Huyền Thoại Toán Học",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_08.svg",
+    "color": "#F34C5D"
+  },
+  {
+    "rank": 9,
+    "title": "Siêu Trí Tuệ",
+    "badge": "../../../../../public/scalable_assets/shared/ranks/Badge_09.svg",
+    "color": "#F8A60A"
+  }
+]
