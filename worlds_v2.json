@@ -1,0 +1,92 @@
+{
+  "1": {
+    "world": "Vùng đất hứa",
+    "milestone": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566119/Worlds/Grade-1/g_1_milestone.png",
+    "lands": [
+      {
+        "name": "Thảo nguyên rực rỡ",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566121/Worlds/Grade-1/g_1_level_1.jpg"
+      },
+      {
+        "name": "Hồ mộng mơ",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566123/Worlds/Grade-1/g_1_level_2.jpg"
+      },
+      {
+        "name": "Thác thiên đường",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566125/Worlds/Grade-1/g_1_level_3.jpg"
+      }
+    ]
+  },
+  "2": {
+    "world": "Rừng huyền dịu",
+    "milestone": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566126/Worlds/Grade-2/g_2_milestone.png",
+    "lands": [
+      {
+        "name": "Rừng mưa bí ẩn",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566128/Worlds/Grade-2/g_2_level_1.jpg"
+      },
+      {
+        "name": "Rừng lấp lánh",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566130/Worlds/Grade-2/g_2_level_2.jpg"
+      },
+      {
+        "name": "Vương quốc nấm",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566133/Worlds/Grade-2/g_2_level_3.jpg"
+      }
+    ]
+  },
+  "3": {
+    "world": "Biển ký ức",
+    "milestone": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566135/Worlds/Grade-3/g_3_milestone.png",
+    "lands": [
+      {
+        "name": "Bờ biển ấm áp",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566137/Worlds/Grade-3/g_3_level_1.jpg"
+      },
+      {
+        "name": "Đảo cô đơn",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566139/Worlds/Grade-3/g_3_level_2.jpg"
+      },
+      {
+        "name": "Thành phố bí mật",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566141/Worlds/Grade-3/g_3_level_3.jpg"
+      }
+    ]
+  },
+  "4": {
+    "world": "Sa mạc huy hoàng",
+    "milestone": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566143/Worlds/Grade-4/g_4_milestone.png",
+    "lands": [
+      {
+        "name": "Thung lũng gió",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566144/Worlds/Grade-4/g_4_level_1.jpg"
+      },
+      {
+        "name": "Tàn tích bị lãng quên",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566146/Worlds/Grade-4/g_4_level_2.jpg"
+      },
+      {
+        "name": "Eo cát Ánh trăng",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566148/Worlds/Grade-4/g_4_level_3.jpg"
+      }
+    ]
+  },
+  "5": {
+    "world": "Vương quốc Mặt Trời",
+    "milestone": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566150/Worlds/Grade-5/g_5_milestone.png",
+    "lands": [
+      {
+        "name": "Cánh đồng hoa ngũ sắc",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566153/Worlds/Grade-5/g_5_level_1.jpg"
+      },
+      {
+        "name": "Cao nguyên đá đỏ",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566155/Worlds/Grade-5/g_5_level_2.jpg"
+      },
+      {
+        "name": "Đỉnh Mặt Trời",
+        "illustration": "https://res.cloudinary.com/dirr7ovdh/image/upload/v1761566157/Worlds/Grade-5/g_5_level_3.jpg"
+      }
+    ]
+  }
+}
